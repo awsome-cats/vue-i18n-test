@@ -1,0 +1,19 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "en": "English",
+    "ja": "Japanese"
+  },
+  "home": {
+    "title": "Hello,World!",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "BABYMETAL Blu-ray / 'DVD LIVE AT THE FORUM' which will be released on May 13 (Wed.), 2020, has been released to the public as early booking privileges at each CD shop & internet sales site as well as pictures of purchaser privileges by store! The following prizes will be given away on a first-come, first-served basis when you make a reservation or purchase an eligible product at any of the participating stores.(1) Early booking privileges are available for those who make a reservation between 11:30 a.m. on Saturday, January 25, 2020 and 23:59 p.m. on Sunday, April 5, 2020. Please note that those who make a reservation after that date will not be eligible for the benefits.The purchase privileges for each store will end as soon as the quantity of each store is reached.Each perk will end while supplies last, so book early!"
+  },
+  "message": {
+    "hello": "Hello"
+  }
+}
